@@ -1,14 +1,21 @@
-// numeric
-var bookPrice = 250;
-var mobilePrice = 15000;
-var pageNumber = 13;
+//different variable types
 
-// string
-var myName = 'Shohan';
-var babyName = 'Suraiya';
-var processorBrand = 'AMD';
+//numeric
+var youtubeViews = 1755; //integer
+var ricePrice = 450.5; //float
 
-// boolean
-var isCold = false;
-var isRain = false;
-var isSunny = true;
+//string
+var ramBrand = 'G.Skill';
+var keyboardBrand = 'Fantech';
+
+//boolean
+var isPassed = true;
+var isListening = false;
+
+//undefined
+var firstNumber;
+var secondNumber;
+
+//object
+var studentID = null;
+console.log(typeof studentID);

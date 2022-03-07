@@ -1,8 +1,8 @@
-var price = 20;
-var age = 25;
-var temperature = 24;
-
-// test
-var catName = 'Billa';
-var gfName = 'Suraiya';
-var herAge = 24;
+//variables
+var gpuPrice = 48000;
+var moboBrand = 'MSI';
+var windowsVersion = '21H1';
+var ramFrequency = 3200;
+var guitarBrand = 'Ibanez';
+var isCold = false;
+var isRaining = true;
